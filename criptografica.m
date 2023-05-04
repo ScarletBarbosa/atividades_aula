@@ -1,5 +1,7 @@
-Algoritmo de Criptografia de Palavras (MatLab/Freemat):
-O exercício foi proposto como um desafio na disciplina de Segurança da Informação, consiste em criptografar uma frase através de palavras chaves. Abaixo segue o algoritmo que desenvolvi para resolução do desafio.
+% Algoritmo de Criptografia de Palavras (MatLab/Freemat):
+% O exercício foi proposto como um desafio na disciplina de Segurança da Informação, 
+% consiste em criptografar uma frase através de palavras chaves. 
+% Abaixo segue o algoritmo que desenvolvi para resolução do desafio.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % PROGRAMA CRIPTOGRAFIA | SCARLET BARBOSA %
